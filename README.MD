@@ -24,3 +24,7 @@ git add filename
 git add . 
 2. git commit -m "your commit msg" : Create a commit and apply a commit message 
 3. git push -u origin <branchname> : pushes committed work to the remote repo.
+
+
+### to add live server 
+- settings -> extensions (ctrl + shift + X)
